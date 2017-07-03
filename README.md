@@ -1,0 +1,2 @@
+# knowlegable
+study
